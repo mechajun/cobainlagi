@@ -32,7 +32,7 @@ public class PBO_1301142190_Hafidh_Tugas1 {
         int h=0;
         
         do{
-            System.out.println("Uklala");
+            System.out.println("Uklalam");
             System.out.println("Selamat datang di aplikasi perpustakaan");
             System.out.println("Silahkan pilih menu :");
             System.out.println("1. Tambah Buku");
